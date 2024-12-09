@@ -4,8 +4,8 @@ title: Implement service or controller for Timer
 created: 2024-12-09 21:58:30
 priority: Medium
 category: Feature
-owner: 
-board: Backlog
+owner: None
+board: In Progress
 ---
 
 ## Description
@@ -19,3 +19,5 @@ Multiplatform Kotlin, and how a something similar to MVC exists there.
 
 ## History
 2024-12-09 21:58:30 - Created
+
+2024-12-09 22:05:08 - Moved to In Progress

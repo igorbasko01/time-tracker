@@ -2,9 +2,9 @@
 id: TASK-1
 title: implement in memory repository for timer event
 created: 2024-12-09 21:55:42
-priority: Medium
+priority: Low
 category: Feature
-owner: 
+owner: None
 board: Backlog
 ---
 
@@ -16,3 +16,5 @@ Implement the `InMemoryTimerEventRepository`.
 
 ## History
 2024-12-09 21:55:42 - Created
+
+2024-12-09 22:04:36 - Priority updated to Low
